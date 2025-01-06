@@ -4,6 +4,6 @@ The purpose of this project was to be a motivation letter for a summer job. The 
 
 The website is a UI mockup made with PencilUI. The idea is to demonstrate how dark patterns can be implemented in a UI design, guiding and pushing user's attention.
 
-The site works best on a bigger screen than mobile.
+The site works best on a bigger screen rather than on mobile.
 
-Website link: https://iemeli.github.io/interactive-motivation-letter/
+Website link: https://spherical-spinach.github.io/interactive-motivation-letter/
